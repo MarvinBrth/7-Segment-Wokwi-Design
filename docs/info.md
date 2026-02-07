@@ -12,12 +12,12 @@ You can also include images in this folder and reference them in the markdown. E
 The 3 input pins can be used to decide which of the 6 letters should be displayed.
 The logic circuit then converts the input into specific letters.
 
-000 = M
-001 = a
-010 = r
-011 = v
-100 = i
-101 = n
+"000 = M"
+"001 = a"
+"010 = r"
+"011 = v"
+"100 = i"
+"101 = n"
 
 ## How to test
 
